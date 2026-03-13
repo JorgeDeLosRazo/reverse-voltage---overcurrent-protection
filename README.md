@@ -15,5 +15,7 @@ This repo has LTSpice simulations for reverse voltage and overcurrent protection
 |1       |Resistor         | 10&#937;      |
 
 
+### Reverse Polarity Protection Circuit
+
 
 
