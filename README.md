@@ -10,4 +10,6 @@ This repo has LTSpice simulations for reverse voltage and overcurrent protection
 |--------|---------------- |---------------|
 |1       |P-Channel MOSFET |TP0604         |
 |1       | NPN BJT         | NHUMD12-QX    |
-|1       | Resistor        | 100$Omega$    |
+|1       | Resistor        | 100$\Omega$   |
+|1       |Resistor         | 10$\Omega$    |
+
