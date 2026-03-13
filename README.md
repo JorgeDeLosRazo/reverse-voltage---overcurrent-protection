@@ -16,6 +16,6 @@ This repo has LTSpice simulations for reverse voltage and overcurrent protection
 
 
 ### Reverse Polarity Protection Circuit
-
+![](Reverse-Polarity-Protection-Circuit-Image.png)
 
 
