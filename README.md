@@ -12,7 +12,7 @@ This repo has LTSpice simulations for reverse voltage and overcurrent protection
 |1       | NPN BJT         | NHUMD12-QX    |
 |1       | Zener Diode     | 1N4733A       |
 |1       | Resistor        | 100&#937;     |
-|1       |Resistor         | 10&#937;      |
+|1       |Resistor         | 1M&#937;      |
 
 
 ### Reverse Polarity Protection Circuit
