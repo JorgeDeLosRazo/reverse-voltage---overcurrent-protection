@@ -8,7 +8,6 @@ This repo has LTSpice simulations for a reverse voltage protection circuit.
 |Quantity| Component Type  | Component Name|
 |--------|---------------- |---------------|
 |1       |P-Channel MOSFET |TP0604         |
-|1       | NPN BJT         | NHUMD12-QX    |
 |1       | Zener Diode     | 1N4733A       |
 |1       | Resistor        | 100&#937;     |
 |1       |Resistor         | 1M&#937;      |
