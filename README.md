@@ -1,9 +1,8 @@
-## Over Current and Reverse Polarity Circuit
+## Reverse Polarity Circuit
 
 Keeping your hardware safe in a project is very important, and sometimes due to human negligence, paths get shorted, or a voltage source gets conected in reverse.
 To keep the hardware from our projects safe without the need for human attention, we can add "safety circuit" blocks into our project. 
-This repo has LTSpice simulations for reverse voltage and overcurrent protection circuits.
-
+This repo has LTSpice simulations for a reverse voltage protection circuit. 
 
 ### Components used
 |Quantity| Component Type  | Component Name|
